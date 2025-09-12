@@ -9,7 +9,7 @@ Perform an initial data and exploratory analysis of 2017's sales data in order t
 
 <h3>Context</h3>
 This project was developed during Career Foundry's Data Analytics Immersion Course, exposing me to a deeper knowledge of Python and introducing relevant libraries used in Data Analytics and Data Science, such as Pandas, Numpy, Matplotlib and Seaborn.</br>
-All of this in the scope of a realistic project, with real data. All datasets are real and are made publicly available by Instacart, except the customers dataset is artificially created for the purpose of this project.
+All of this in the scope of a realistic project, with real data. All datasets are real and are made publicly available by Instacart, except the customers dataset that was artificially created for the purpose of this project.
 
 <h3>What you will find in this repository</h3>
 <ol>
