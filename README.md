@@ -20,4 +20,4 @@ All of this in the scope of a realistic project, with real data. All datasets ar
 5. **Deliverables** – The Final Report (as per *client* request, reporting was made in Excel, using the template provided)
 
 ### Case Study
-[Link to Case Study on my Portfolio](#)
+[Link to Case Study on my Portfolio](https://nevesfernandes.github.io/instacart.html)
